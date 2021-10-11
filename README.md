@@ -118,7 +118,11 @@
 - Mise en prod grandement facilitée si toutes les étapes précédentes ont été appliquées
 - Déploiement
   - Environnement de production
-  - Pipeline de transformations : DAG
+  - Vision du projet comme *data pipeline* : données, transformations, modélisation, output
+  - Orchestration des différentes étapes
+    - crontab
+    - Airflow
+    - Kubernetes (Jobs)
 - CI/CD
 
 ### 6. Notions avancées
