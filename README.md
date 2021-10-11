@@ -26,7 +26,7 @@
   - Documentation (commentaires, docstrings...)
 - Standards communautaires de code
   - R : tidyverse / Google style guides
-  - Python : PEP
+  - Python : PEP 8, PEP 257
 - Utilisation d'analyseurs de code (formatters, linters)
 - Relecture par un tiers / pair-programming
 
