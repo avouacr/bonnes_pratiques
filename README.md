@@ -120,9 +120,9 @@
   - Environnement de production
   - Vision du projet comme *pipeline* : données, transformations, modélisation, output
   - Orchestration des différentes étapes
-    - crontab
-    - Airflow
-    - Kubernetes (Jobs)
+    - Orchestration simple (crontab)
+    - Orchestration sous forme de DAG (e.g. Airflow)
+    - Orchestration résiliente (Kubernetes)
 - CI/CD
 
 ### 6. Notions avancées
